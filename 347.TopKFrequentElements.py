@@ -1,5 +1,7 @@
+# We can also use 'from collections import Counter
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+#       Alternatively occur = Counter(nums)
         occur = {}
         for number in nums:
             if number not in occur:
