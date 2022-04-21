@@ -1,2 +1,2 @@
 # LeetCodePython
-This repository contains solutions to some of the leetcode tasks, written in Python
+This repository contains Python solutions to some of the leetcode problems.
